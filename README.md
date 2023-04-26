@@ -30,8 +30,8 @@ app.use(litebc);
 // The rest of your code
 ```
 
-### Setting Maximum redirect
-By default, We redirect on validation for `2` times. To change this, Simply do:
+### Setting Maximum refresh
+By default, We refresh on validation for `3` times. To change this, Simply do:
 
 ```js
 const litebc = require("litebc");
