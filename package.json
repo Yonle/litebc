@@ -1,6 +1,6 @@
 {
   "name": "litebc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple Browser Checker",
   "main": "index.js",
   "scripts": {

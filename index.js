@@ -33,9 +33,8 @@ module.exports = (req, res, n) => {
 module.exports.setMax = _ => max = _;
 module.exports.setCookieName = _ => cookieName = _;
 
-/*setInterval(() => {
+setInterval(() => {
   onverify.forEach((i, n) => {
     onverify.delete(n);
   });
 }, 10000);
-*/
